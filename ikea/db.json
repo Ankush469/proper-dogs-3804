@@ -1,0 +1,145 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "img":"https://www.ikea.com/images/38/79/38790448e30fda51270c1da015a80a06.jpg?f=xl",
+      "name":"error"
+    },
+    {
+      "id":2,
+      "img":"https://www.ikea.com/images/d9/b8/d9b886d1c5b38bdd0e1b7311249ec941.jpg?f=xs",
+      "name":"error"
+    },
+    {
+      "id":3,
+      "img":"https://www.ikea.com/images/3f/83/3f838e4a95ad618355a0af57f83a0915.jpg?f=xs",
+      "name":"error"
+    },
+    {
+      "id":4,
+      "img":"https://www.ikea.com/images/a5/d0/a5d05af49c178f09b24e99e6542b2f80.jpg?f=xs",
+      "name":"error"
+    },
+    {
+      "id":5,
+      "img":"https://www.ikea.com/images/4a/cc/4acc0749fcc6d683acbe7ae65a45d130.jpg?f=xs",
+      "name":"error"
+    }
+  ],
+  "sofas":[
+    {
+      "id":1,
+      "img":"https://www.ikea.com/in/en/images/products/gammalbyn-3-seat-sofa-grey__0868927_pe781435_s5.jpg?f=xxs",
+      "price":20000,
+      "name":"Sofas",
+      "discription":"Durable metal springs in the seat give the sofa a springy comfort, allowing you to sit, relax and enjoy it for many years."
+
+    },
+    {
+      "id":2,
+      "img":"https://www.ikea.com/in/en/images/products/gammalbyn-3-seat-sofa-grey__0868926_pe781434_s5.jpg?f=s",
+      "price":70000,
+      "name":"Sofas",
+      "discription":"Durable metal springs in the seat give the sofa a springy comfort, allowing you to sit, relax and enjoy it for many years."
+
+    },
+    {
+      "id":3,
+      "img":"https://www.ikea.com/in/en/images/products/groenlid-4-seat-sofa-with-chaise-longues-ljungen-light-red__0852577_pe780184_s5.jpg?f=xxs",
+      "price":40000,
+      "name":"Sofas",
+      "discription":"Durable metal springs in the seat give the sofa a springy comfort, allowing you to sit, relax and enjoy it for many years."
+    },
+    {
+      "id":4,
+      "img":"https://www.ikea.com/in/en/images/products/groenlid-4-seat-sofa-with-chaise-longues-ljungen-light-red__0852577_pe780184_s5.jpg?f=xxs",
+      "price":90000,
+      "name":"Sofas",
+      "discription":"Durable metal springs in the seat give the sofa a springy comfort, allowing you to sit, relax and enjoy it for many years."
+    },
+    {
+      "id":5,
+      "img":"https://www.ikea.com/in/en/p/ekolsund-recliner-gunnared-light-brown-pink-s69297188/",
+      "price":40000,
+      "name":"Sofas",
+      "discription":"Durable metal springs in the seat give the sofa a springy comfort, allowing you to sit, relax and enjoy it for many years."
+    }
+  ],
+  "table":[
+    {
+      "id":1,
+      "img":"https://www.ikea.com/in/en/images/products/nodeland-coffee-table-black-brown__0974628_pe812487_s5.jpg?f=s",
+      "name":"table",
+      "disription":"Under this sturdy coffee table’s table top there is an equally big shelf. Perfect for magazines, remotes and other things you want close by when relaxing on the sofa. Part of the NODELAND furniture series.",
+      "price":"1700"
+    },
+    {
+      "id":2,
+      "img":"https://www.ikea.com/in/en/images/products/nodeland-coffee-table-black-brown__0974628_pe812487_s5.jpg?f=s",
+      "name":"table",
+      "disription":"Under this sturdy coffee table’s table top there is an equally big shelf. Perfect for magazines, remotes and other things you want close by when relaxing on the sofa. Part of the NODELAND furniture series.",
+      "price":"1700"
+    },
+    {
+      "id":2,
+      "img":"https://www.ikea.com/in/en/images/products/nodeland-coffee-table-black-brown__0974628_pe812487_s5.jpg?f=s",
+      "name":"table",
+      "disription":"Under this sturdy coffee table’s table top there is an equally big shelf. Perfect for magazines, remotes and other things you want close by when relaxing on the sofa. Part of the NODELAND furniture series.",
+      "price":"1700"
+    },
+    {
+      "id":3,
+      "img":"https://www.ikea.com/in/en/images/products/nodeland-coffee-table-black-brown__0974628_pe812487_s5.jpg?f=s",
+      "name":"table",
+      "disription":"Under this sturdy coffee table’s table top there is an equally big shelf. Perfect for magazines, remotes and other things you want close by when relaxing on the sofa. Part of the NODELAND furniture series.",
+      "price":"1700"
+    },
+    {
+      "id":4,
+      "img":"https://www.ikea.com/in/en/images/products/nodeland-coffee-table-black-brown__0974628_pe812487_s5.jpg?f=s",
+      "name":"table",
+      "disription":"Under this sturdy coffee table’s table top there is an equally big shelf. Perfect for magazines, remotes and other things you want close by when relaxing on the sofa. Part of the NODELAND furniture series.",
+      "price":"1700"
+    },
+    {
+      "id":5,
+      "img":"https://www.ikea.com/in/en/images/products/nodeland-coffee-table-black-brown__0974628_pe812487_s5.jpg?f=s",
+      "name":"table",
+      "disription":"Under this sturdy coffee table’s table top there is an equally big shelf. Perfect for magazines, remotes and other things you want close by when relaxing on the sofa. Part of the NODELAND furniture series.",
+      "price":"1700"
+    }
+  ],
+  "curtains":[
+    {
+      "id":1,
+      "img":"https://www.ikea.com/in/en/images/products/tretur-block-out-roller-blind-light-grey__0892632_pe653525_s5.jpg?f=xxs",
+      "name":"Curtains",
+      "discription":"With block-out blinds you won’t get your sleep disturbed by moonlight and street lights - or be woken by the sun when you want to sleep in late.",
+      "price":4000
+    },
+    {
+      "id":2,
+      "img":"https://www.ikea.com/in/en/images/products/tretur-block-out-roller-blind-light-grey__0892632_pe653525_s5.jpg?f=xxs",
+      "name":"Curtains",
+      "discription":"With block-out blinds you won’t get your sleep disturbed by moonlight and street lights - or be woken by the sun when you want to sleep in late.",
+      "price":4000
+    },
+    {
+      "id":3,
+      "img":"https://www.ikea.com/in/en/images/products/tretur-block-out-roller-blind-light-grey__0892632_pe653525_s5.jpg?f=xxs",
+      "name":"Curtains",
+      "discription":"With block-out blinds you won’t get your sleep disturbed by moonlight and street lights - or be woken by the sun when you want to sleep in late.",
+      "price":4000
+    },
+    {
+      {
+        "id":1,
+        "img":"https://www.ikea.com/in/en/images/products/tretur-block-out-roller-blind-light-grey__0892632_pe653525_s5.jpg?f=xxs",
+        "name":"Curtains",
+        "discription":"With block-out blinds you won’t get your sleep disturbed by moonlight and street lights - or be woken by the sun when you want to sleep in late.",
+        "price":4000
+      }
+    }
+  ]
+ 
+}
